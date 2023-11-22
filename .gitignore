@@ -1,1 +1,5 @@
-C Sharp homework 1.sln
+C Sharp homework 1.sln/
+obj/
+bin/
+homework_01.csproj
+homework_02.csproj
