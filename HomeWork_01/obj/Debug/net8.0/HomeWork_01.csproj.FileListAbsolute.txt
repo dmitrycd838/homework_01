@@ -12,3 +12,4 @@ C:\C Sharp homework 1\HomeWork_01\obj\Debug\net8.0\refint\HomeWork_01.dll
 C:\C Sharp homework 1\HomeWork_01\obj\Debug\net8.0\HomeWork_01.pdb
 C:\C Sharp homework 1\HomeWork_01\obj\Debug\net8.0\HomeWork_01.genruntimeconfig.cache
 C:\C Sharp homework 1\HomeWork_01\obj\Debug\net8.0\ref\HomeWork_01.dll
+C:\C Sharp homework 1\HomeWork_01\obj\Debug\net8.0\HomeWork_01.sourcelink.json
