@@ -3,19 +3,22 @@
 System.Console.WriteLine("Введите натуральное число: ");
 int N = Convert.ToInt32(Console.ReadLine());
 
-if ( N < 10)
+if (N < 10)
 {
     System.Console.WriteLine(N);
 }
 else
 {
-    while (N > 10){
+    while (N > 10)
+    {
         int currentDigit = N % 10;
         N /= 10;
-        if (N >= 0){
+        if (N >= 0)
+        {
             Console.Write(currentDigit + ",");
         }
-        else{
+        else
+        {
             Console.Write(currentDigit);
         }
     }
